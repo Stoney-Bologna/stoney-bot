@@ -1,0 +1,10 @@
+{
+	"name": "Mr. Anderson",
+	"version": "1.0",
+	"authors": [ "Stoney-Bologna (Stone Parizek)" ],
+	"description": "My first rendition of my first bot",
+	"homepage": "https://github.com/Stoney-Bologna/stoney-bot",
+	"countryCodes": [ "us" ], 
+	"platform": "Java 21",
+	"programmingLang": "Java 21"
+}
